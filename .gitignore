@@ -1,3 +1,8 @@
 *.CSV
 *.xlx
 *.xlxs
+
+#folders
+
+.ipynb_checkpoints/
+.ipynb_checkpoints
